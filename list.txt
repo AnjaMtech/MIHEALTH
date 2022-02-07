@@ -1,0 +1,10 @@
+
+  -Create a logo using any appropriate web fonts with two colors included as indicated in the design.
+  -Menu navigation aligned to the right side of the page with links set to # and color set to black or dark gray. For example, a href="#".
+  -Use of h1>h6, paragraph tags with appropriate formatting to create visual appealing content.
+  -Use 3 images provided in this lab assignment (different dimensions). You will need to make sure that the images have the same width and height. Don't worry if the image alignment or how it looks on the website isn't exactly the same. For more help on cropping images, refer to this online resource.
+  -Background patterns added. You will find an appropriate background image from Subtle Pattern and download it. You will apply the background image property repeat function to have that image repeated across the page (gray background).
+  -Use an external css named styles.css.
+  -Check to make sure there is no errors.
+  -Create a repository for this project. Upload project often to Git Hub. Do not upload zip files as your submission for this assignment.
+  -Simple one page website to mirror the exact mockup design provided below.
